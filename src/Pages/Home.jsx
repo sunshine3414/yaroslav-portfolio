@@ -321,7 +321,7 @@ const Home = () => {
                                 </Tooltip>
                             </Link> */}
 
-                            <Link href="https://github.com/Atanu8250" target="_blank">
+                            <Link href="https://github.com/yaroslav414" target="_blank">
                                 <Tooltip label='yaroslav414'>
                                     <Box className='social-icons'>
                                         <Box>

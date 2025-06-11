@@ -143,7 +143,7 @@ export const projects = [
         github: 'https://github.com/yaroslav414/KanBan_Board',
         liveDemo: 'https://kanban-board-by-atanu.netlify.app/'
     },
-    //https://github.com/Atanu8250/Kanban-Board
+    //https://github.com/yaroslav414/Kanban-Board
     // {
     //     id: 1,
     //     title: 'Autotron-Tech',
@@ -164,7 +164,7 @@ export const projects = [
         github: "https://github.com/yaroslav414/Foreign_Bazar",
         liveDemo: "https://foreign-bazar.netlify.app/"
     },
-    // https://github.com/Atanu8250/ForeignBazar
+    // https://github.com/yaroslav414/ForeignBazar
     {
         id: 3,
         title: 'Fast-AIM',
@@ -175,7 +175,7 @@ export const projects = [
         github: 'https://github.com/yaroslav414/Fast_aim',
         liveDemo: 'https://fast-aim-game.vercel.app/'
     },
-    // https://github.com/Atanu8250/fast-aim
+    // https://github.com/yaroslav414/fast-aim
     {
         id: 4,
         title: "GadgetRambo",
@@ -186,7 +186,7 @@ export const projects = [
         github: "https://github.com/yaroslav414/Gadget_Rambo",
         liveDemo: "https://gadget-rambo.vercel.app/"
     },
-    // https://github.com/Atanu8250/GadgetRambo
+    // https://github.com/yaroslav414/GadgetRambo
     // {
     //     id: 5,
     //     title: "YouTube clone",
@@ -194,7 +194,7 @@ export const projects = [
     //     image: "/webpages/youtube-webpage.webp",
     //     description: "In this YouTube Clone You can search for any Videos and at the time of watching a video you will get Recommendation also. You can Do Filter by View, Alphabet, Popularity.",
     //     techStack: ["HTML", "CSS", "JavaScript"],
-    //     github: "https://github.com/Atanu8250/YouTube-clone",
+    //     github: "https://github.com/yaroslav414/YouTube-clone",
     //     liveDemo: "https://youtube-cloned-by-atanu.netlify.app/"
     // },
     {
@@ -207,7 +207,7 @@ export const projects = [
         github: "https://github.com/yaroslav414/Gadget_Rambo",
         liveDemo: "https://nifty-cloned-by-atanu.netlify.app/"
     },
-    // https://github.com/Atanu8250/cared-eggs-1276
+    // https://github.com/yaroslav414/cared-eggs-1276
     // {
     //     id: 7,
     //     title: "Health-Dr.",
@@ -215,7 +215,7 @@ export const projects = [
     //     image: "/webpages/health-dr-webpage.webp",
     //     description: "Health-Dr. website is used to track your health-diet. Here you can set the goal to have a fitness full body and our website will track your fitness and health",
     //     techStack: ["HTML", "CSS", "JavaScript"],
-    //     github: "https://github.com/Atanu8250/Health-Dr.",
+    //     github: "https://github.com/yaroslav414/Health-Dr.",
     //     liveDemo: "https://health-dr-by-team-masai-warriors.netlify.app/"
     // },
     // {
